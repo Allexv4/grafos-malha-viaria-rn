@@ -1,14 +1,12 @@
 # Análise Estrutural da Rede Viária de Canguaretama-RN
 
-**Trabalho Prático — Estrutura de Dados II (DCA3702)**  
 **Autor:** José Alex Araújo de Santana  
-**Semanas 5 e 6 — Foco: Hubs e Core Decomposition**
 
 ---
 
 ## 🎥 Vídeo de Apresentação
 
-> 🔗 **[Inserir link do Loom aqui após gravar]**
+> 🔗 **[Vídeo de Apresentação](https://www.loom.com/share/75c0c071154343798659a5d93f2c7c1c)**
 
 ---
 
