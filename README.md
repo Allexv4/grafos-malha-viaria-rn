@@ -13,7 +13,7 @@
 ## 1. Região Analisada
 
 **Cidade:** Canguaretama, Rio Grande do Norte, Brasil  
-**Justificativa:** Canguaretama é a cidade onde o autor reside. A escolha foi intencional para verificar se as métricas de grafos confirmam o conhecimento urbano local. A cidade tem tamanho adequado para análise — evitando o risco de regiões grandes demais citado no enunciado.
+**Justificativa:** Canguaretama é a cidade em que eu resido. A escolha foi intencional para verificar se as métricas de grafos confirmam o meu conhecimento urbano local. A cidade tem tamanho adequado para análise — evitando o risco de regiões grandes demais citado no enunciado.
 
 A malha viária apresenta dois núcleos urbanos distintos: o centro histórico (maior, a leste) e um bairro secundário (menor, a oeste), conectados por vias rurais esparsas.
 
