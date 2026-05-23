@@ -6,7 +6,7 @@
 
 ## 🎥 Vídeo de Apresentação
 
-> 🔗 **[Vídeo de Apresentação](https://www.loom.com/share/75c0c071154343798659a5d93f2c7c1c)**
+> 🔗 **[Apresentação loom](https://www.loom.com/share/75c0c071154343798659a5d93f2c7c1c)**
 
 ---
 
